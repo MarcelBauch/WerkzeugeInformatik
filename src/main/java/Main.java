@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Kommentar in main
+=======
+//Kommentar merge-conflict
+>>>>>>> merge-conflict
 
 public class Main {
 
